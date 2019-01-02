@@ -1,7 +1,7 @@
 # Visualizing Deep Similarity Networks
 
 <p align="center">
-  <img width=50% src="https://www2.seas.gwu.edu/~astylianou/images/similarity-visualization/scene_similarity.png">
+  <img width=50% src="https://www2.seas.gwu.edu/~astylianou/images/similarity-visualization/similarity.png">
 </p>
 
 Download the pre-trained models:
