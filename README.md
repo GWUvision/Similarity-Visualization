@@ -1,10 +1,11 @@
 # Visualizing Deep Similarity Networks
+This repository contains code to generate the similarity visualizations for deep similarity, or embedding, networks described in https://TODO.com (WACV 2019).
 
 <p align="center">
   <img width=50% src="https://www2.seas.gwu.edu/~astylianou/images/similarity-visualization/similarity.png">
 </p>
 
-This repository contains code to generate the similarity visualizations for deep similarity, or embedding, networks described in https://TODO.com (WACV 2019).
+<b>Abstract</b>: For convolutional neural network models that optimize an image embedding, we propose a method to highlight the regions of images that contribute most to pairwise similarity. This work is a corollary to the visualization tools developed for classification networks, but applicable to the problem domains better suited to similarity learning. The visualization shows how similarity networks that are fine-tuned learn to focus on different features. We also generalize our approach to embedding networks that use different pooling strategies and provide a simple mechanism to support image similarity searches on objects or sub-regions in the query image.
 
 ## Dependencies
 This code was run using the python libraries and versions listed in requirements.txt.
