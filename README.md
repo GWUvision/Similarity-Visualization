@@ -1,5 +1,5 @@
 # Visualizing Deep Similarity Networks
-This repository contains code to generate the similarity visualizations for deep similarity, or embedding, networks described in https://TODO.com (WACV 2019).
+This repository contains code to generate the similarity visualizations for deep similarity, or embedding, networks described in https://arxiv.org/pdf/1901.00536.pdf (WACV 2019).
 
 <p align="center">
   <img width=50% src="https://www2.seas.gwu.edu/~astylianou/images/similarity-visualization/similarity.png">
